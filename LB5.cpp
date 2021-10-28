@@ -3,7 +3,7 @@
 #define _USE_MATH_DEFINES 
 #include <math.h>
 using namespace std;
-
+//zmina v kodi 
 int main()
 {
     SetConsoleCP(1251);
