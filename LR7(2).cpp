@@ -10,7 +10,7 @@ int main()
 	Z = 1;
 	for (int n = 1; n <= 10; n++) {
 		Z = Z / n;
-
+		//comment 
 	}
 	Z = (y + Z + 2) / (y + 2);
 	cout << "Z=" << setprecision(3) << Z << endl;
